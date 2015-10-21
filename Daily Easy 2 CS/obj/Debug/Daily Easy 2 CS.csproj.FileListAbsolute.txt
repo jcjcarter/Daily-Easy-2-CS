@@ -1,0 +1,7 @@
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily Easy 2 CS\Daily Easy 2 CS\bin\Debug\Daily Easy 2 CS.exe.config
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily Easy 2 CS\Daily Easy 2 CS\bin\Debug\Daily Easy 2 CS.exe
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily Easy 2 CS\Daily Easy 2 CS\bin\Debug\Daily Easy 2 CS.pdb
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily Easy 2 CS\Daily Easy 2 CS\obj\Debug\Daily Easy 2 CS.csprojResolveAssemblyReference.cache
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily Easy 2 CS\Daily Easy 2 CS\obj\Debug\Daily Easy 2 CS.exe
+c:\users\tz6ysq\documents\visual studio 2015\Projects\Daily Easy 2 CS\Daily Easy 2 CS\obj\Debug\Daily Easy 2 CS.pdb
+C:\Users\tz6ysq\Documents\Visual Studio 2015\Projects\Daily Easy 2 CS\Daily Easy 2 CS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
